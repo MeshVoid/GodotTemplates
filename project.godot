@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Templates"
+config/tags=PackedStringArray("2d_game", "3d_game", "gdscript", "main", "shaders", "templates", "test")
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 config/templates_search_path="res://script_templates"
