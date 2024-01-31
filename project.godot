@@ -13,6 +13,7 @@ config_version=5
 config/name="Templates"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
+config/templates_search_path="res://script_templates"
 
 [editor]
 
